@@ -1,11 +1,4 @@
-   _____ _____  __  __  _____ 
-  / ____|  __ \|  \/  |/ ____|
- | (___ | |__) | \  / | (___  
-  \___ \|  ___/| |\/| |\___ \ 
-  ____) | |    | |  | |____) |
- |_____/|_|    |_|  |_|_____/ 
- 
- Student Performance Monitoring System
+# Student Performance Monitoring System
  
 
  
